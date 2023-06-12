@@ -9,11 +9,11 @@
 
 Plugin WordPress para consulta de domínios no registro.br
 
-## Description ##
+## Descrição ##
 
 O plugin Consulta Registro.br é uma ferramenta criada para proprietários de sites WordPress que desejam disponibilizar de forma simples a consulta de domínios no registro.br.
 
-## Installation ##
+## Instalação ##
 
 ### Instalação do plugin: ###
 
