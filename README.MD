@@ -28,17 +28,16 @@ O plugin Consulta Registro.br é uma ferramenta criada para proprietários de si
 
 * Para utilizar o plugin, basta inserir em qualquer página o shortcode <code>[consulta-registro-br]</code>. 
 * Após a inserção do shortcode, acesse a página onde o mesmo foi inserido e realize as consultas conforme os exemplos a seguir:
-* 
+ 
 
 ![Alt Text](https://github.com/patricksponte/consulta-registro-br/blob/master/img/consulta-registro-br-1.gif)
 
-*
 
 ![Alt Text](https://github.com/patricksponte/consulta-registro-br/blob/master/img/consulta-registro-br-2.gif)
 
-*
 
 ![Alt Text](https://github.com/patricksponte/consulta-registro-br/blob/master/img/consulta-registro-br-3.gif)
+
 
 ## Changelog ##
 
