@@ -28,7 +28,7 @@ Possuir a extensão **Sockets** habilitada em seu PHP.
 
 ### Como Usar: ###
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/patricksponte/consulta-registro-br/blob/master/img/consulta-registro-br-1.webm)
 
 ## Changelog ##
 
