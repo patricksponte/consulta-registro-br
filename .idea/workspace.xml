@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="283c618d-1ce4-4cf2-ba31-9392372ac884" name="Changes" comment="Changing information from plugin header" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.1">
+    <include_path>
+      <path value="$PROJECT_DIR$/../wordpress" />
+      <path value="$PROJECT_DIR$/../../../../php" />
+      <path value="$PROJECT_DIR$/../../../../php/pear" />
+      <path value="$USER_HOME$/Documents/wordpress" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="2QG0rVeT4X9EqvwvyEvyTDZ8JNu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "credentialsType com.jetbrains.php.remote.interpreter.ui.PhpInplaceEditRemoteSdkForm": "Docker",
+    "last_opened_file_path": "C:/Users/patri/PhpstormProjects/consulta-registro-br/img",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\patri\PhpstormProjects\consulta-registro-br" />
+      <recent name="C:\Users\patri\PhpstormProjects\consulta-registro-br\testes" />
+      <recent name="C:\Users\patri\PhpstormProjects\consulta-registro-br\vendor\isavail" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\patri\PhpstormProjects\consulta-registro-br\assets\css" />
+      <recent name="C:\Users\patri\PhpstormProjects\consulta-registro-br\vendor\isavail" />
+      <recent name="C:\Users\patri\PhpstormProjects\consulta-registro-br\vendor" />
+      <recent name="C:\Users\patri\PhpstormProjects\consulta-registro-br" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.example.php">
+    <configuration name="example.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/consulta-registro-br/vendor/isavail/example.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="example.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/vendor/isavail/example.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 8.1" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.example.php" />
+        <item itemvalue="JavaScript Debug.example.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="283c618d-1ce4-4cf2-ba31-9392372ac884" name="Changes" comment="" />
+      <created>1684964809782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684964809782</updated>
+      <workItem from="1684964810994" duration="5943000" />
+      <workItem from="1685034617550" duration="11678000" />
+      <workItem from="1685108291267" duration="4308000" />
+      <workItem from="1685361114727" duration="19858000" />
+      <workItem from="1685467266657" duration="4506000" />
+      <workItem from="1685643873866" duration="4251000" />
+      <workItem from="1685730957866" duration="104000" />
+      <workItem from="1685974406914" duration="2815000" />
+      <workItem from="1686085036147" duration="649000" />
+      <workItem from="1686587298187" duration="3087000" />
+      <workItem from="1686591160331" duration="855000" />
+    </task>
+    <task id="LOCAL-00001" summary="First Release.&#10;Version 1.0.0">
+      <created>1685643954649</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685643954649</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added author info.">
+      <created>1685644054231</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685644054231</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fix readme file info and misspelling.">
+      <created>1685644217549</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685644217549</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Removing console.log command.">
+      <created>1685644911229</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685644911229</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Changing information from plugin header">
+      <created>1685644938682</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685644938682</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Release.&#10;Version 1.0.0" />
+    <MESSAGE value="Added author info." />
+    <MESSAGE value="Fix readme file info and misspelling." />
+    <MESSAGE value="Removing console.log command." />
+    <MESSAGE value="Changing information from plugin header" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changing information from plugin header" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>C:\Users\patri\Documents\wordpress</wordpressPath>
+  </component>
+</project>
